@@ -1,0 +1,82 @@
+# Variável
+- É um espaço na memória, para guardar um valor durante a execução de um programa
+- São valores que variam e não são fixos.
+
+### Tipos de Variável
+- Texto (String). EX: Nome
+- Inteiro. Ex: Idade (sem casas decimais)
+- Float. Ex: Altura (Valores com casas decimais)
+- Lógico. Ex: Falso ou Verdadeiro (1 ou 0)
+
+OBS: Python é uma linguagem fracamente tipada, ou seja, não se importa em si com o tipo de dados informado na variável.
+
+### Criação de Variável no Python
+##### Criar Variável do tipo Inteiro
+- x = 1
+##### Criar Variável do tipo float
+- y = 3.13
+##### Criar Variável do tipo string
+- z = "Python"
+- z = 'Python'
+##### Criar variável do tipo lógico
+- w = True
+- y = False
+
+Ou seja, implicitamente o Python entende o tipo de dados da variável, sem precisar informar o seu tipo.
+
+### Principais Operadores
+- **+**
+- ***--***
+- **/**
+- **x** **(representado por** ***)**
+
+#### Usos Básicos do Python
+Podemos usá-lo como **calculadora**:
+
+    x = 10
+    y = 20
+    z = 100
+    w = (x + y) * z / 100
+    print (w) - comando para printar na tela o resultado, chamando a variável w
+
+### Gerar uma saída - Exibir valores no Console
+
+     print ("este texto será impresso no console")
+     print (x)
+     print ("Texto e duas variáveis", x, z) // Isso se chama concatenar, é quando juntamos uma ou mais variáveis na mesma saída.
+
+### Entrada de Valores
+Neste caso o usuário vai digitar um valor
+
+    x = input("Informe um valor: ")
+Neste caso vai aguardar o usuário entrar com um dado(valor), vai criar a variável x como **string** e armazenar o valor.
+
+***OBS: Independente do tipo de dado informado, a variável será sempre string.***
+
+### Verificar o tipo de uma variável
+Utilizamos a função type passando o objeto. Ex: type(x)
+
+    x = 10
+    type(x)
+    
+    //A saida vai ser o tipo da variavel
+    class 'int'
+    
+### Conversão de Valores
+Se tivermos uma variável de por exemplo tipo flutuante, podemos transformar para inteiro e vice versa. 
+Isso é chamado de conversão implicita.
+
+### Comentários
+Texto que add que é ignorado/não interpretado. Serve para documentarmos o nosso código.
+Existem duas formas de comentarmos no Python:
+
+***Comentário de uma linha:***
+
+    # Este texto é um comentário
+    
+Comentário de várias Linhas:
+
+    '''Aqui começa um comentário
+	Aqui ele continua
+	e aqui ele termina'''
+
