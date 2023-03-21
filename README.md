@@ -62,4 +62,3 @@ Estudo introdutório de Python para se familiarizar com a linguagem. Veremos mai
 - Ele é sensivel a maiúsculas e minúsculas (Case Sensitive)
 
 [**Introdução a Linguagem Python**](https://drive.google.com/drive/folders/1hXkURTuWTP9OCvO3749Exc3n6gLSaO3X?usp=share_link)
-https://github.com/davidpereirads/Minha-Jornada-Documentada/tree/main/Introdu%C3%A7%C3%A3o%20ao%20Python
