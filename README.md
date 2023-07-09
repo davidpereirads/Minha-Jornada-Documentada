@@ -3,8 +3,6 @@
 Olá!! Meu nome é David, atualmente tenho 19 anos e estou iniciando a minha trajetória na área de dados, visando obter conhecimentos em Ciência de Dados/Análise de Dados e Estátisticas.
 Aqui irei registrar cada passo e documentar todo o meu aprendizado com todo o conteúdo utilizado para me desenvolver.
 
-![image](https://user-images.githubusercontent.com/107387110/226517762-215e7c21-3675-4624-b14b-843eb93cde04.png)
-
 ## Techs que irei aprender inicialmente
 
  - Python
@@ -61,4 +59,3 @@ Estudo introdutório de Python para se familiarizar com a linguagem. Veremos mai
 - Menos código digitado
 - Ele é sensivel a maiúsculas e minúsculas (Case Sensitive)
 
-[**Introdução a Linguagem Python**](https://drive.google.com/drive/folders/1hXkURTuWTP9OCvO3749Exc3n6gLSaO3X?usp=share_link)
